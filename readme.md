@@ -4,4 +4,4 @@ Let's say we have some code on our page that reads "Hello Jorge" and we were giv
 
 So we decide to make a change to
 
-<h2>Hello World</h2>
+<h2>Hello Alice</h2>
